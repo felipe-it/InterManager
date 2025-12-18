@@ -1,5 +1,5 @@
 <div align="center">
-<img src="src/main/resources/imagenInicioInterManager.png" width="200" alt="Logo" />
+<img src="src/main/resources/imagenInicioInterManager.png" width="150" alt="Logo" />
 
 
 # InterManager
