@@ -96,7 +96,7 @@ java -version y mvn -version.
 
 ---
 
-### Ejecución desde Terminal
+### ▶️ Ejecución desde Terminal
 
 1. Clonar el repositorio
 
@@ -108,7 +108,7 @@ java -version y mvn -version.
 
 ---
 
-### Ejecución desde IDE
+### ▶️ Ejecución desde IDE
 
 1. Clonar el repositorio
 `git clone https://github.com/felipe-it/InterManager.git`
@@ -119,7 +119,7 @@ java -version y mvn -version.
 
 ---
 
-### Ejecución desde Release (para usuarios finales)
+### ▶️ Ejecución desde Release (para usuarios finales)
 
 1. Ve a la sección de **Releases** de este repositorio.
 2. Descarga el archivo `InterManager.jar`.
