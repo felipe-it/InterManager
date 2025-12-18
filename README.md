@@ -1,7 +1,6 @@
 <div align="center">
 <img src="src/main/resources/imagenInicioInterManager.png" width="200" alt="Logo" />
-    
-</a>
+
 
 # InterManager
 
@@ -9,6 +8,8 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+<img src="src/main/resources/portada-readme.png" width="700" alt="Portada" />
 </div>
 
 ## **📌 Descripción**
