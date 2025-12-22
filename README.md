@@ -91,7 +91,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
 3. **Apache Maven 3.x** (si deseas ejecutar desde terminal).
 
 > Verificación: Puedes comprobar tus versiones abriendo una terminal y escribiendo:
-java -version y mvn -version.
+`java -version` y `mvn -version`
 > 
 
 ---
