@@ -102,6 +102,8 @@ java -version y mvn -version.
 
 `git clone https://github.com/felipe-it/InterManager.git`
 
+`cd InterManager`
+
 2. Compilar, empaquetar y ejecutar
 
 `mvn clean package && java -jar target/InterManager-1.0-SNAPSHOT-jar-with-dependencies.jar`
@@ -110,7 +112,7 @@ java -version y mvn -version.
 
 ### ▶️ Ejecución desde IDE
 
-1. Clonar el repositorio
+1. Clonar el repositorio:
 `git clone https://github.com/felipe-it/InterManager.git`
 
 2. Abrir Proyecto: Seleccionar "Open Project" y buscar InterManager.
